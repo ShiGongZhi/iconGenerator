@@ -1440,15 +1440,23 @@
                pattern="^[\._]?(md|markdown|mdx)$"
                icon="/markdown.svg"/>
         <regex folderNames="logic,.logic,_logic,math,maths,.math,.maths,_math,algo,algos,.algo,_algo,_algorithm,
-        algorithms, .algorithms,formula,formulas,.formulas,_formula,computations,.computation,_computations,wolfram,
+        algorithms, .algorithms,formula,formulas,.formulas,_formula,computations,.computation,_computations,
         mathjax,.mathjax,scilab,_scilab"
                name="Math"
                folderColor="D81B60"
                folderIconColor="F8BBD0"
                priority="100"
                iconType="FOLDER"
-               pattern="^[\._]?(logic|maths?|algos?|algorithms?|formulas?|computations?|wolfram|scilab|mathjax)$"
+               pattern="^[\._]?(logic|maths?|algos?|algorithms?|formulas?|computations?|scilab|mathjax)$"
                icon="/math.svg"/>
+        <regex folderNames="kernel,wolfram"
+               name="Math"
+               folderColor="D81B60"
+               folderIconColor="F8BBD0"
+               priority="100"
+               iconType="FOLDER"
+               pattern="^[\._]?(wolfram|kernel)$"
+               icon="/wolfram.svg"/>
         <regex folderNames="maven,.maven,_maven,mvn,_mvn,.mvn,pom,.pom,_pom"
                name="Maven"
                folderColor="93254A"

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  - The MIT License (MIT)
+  -
+  - Copyright (c) 2015-2022 Elior "Mallowigi" Boukhobza
+  -
+  - Permission is hereby granted, free of charge, to any person obtaining a copy
+  - of this software and associated documentation files (the "Software"), to deal
+  - in the Software without restriction, including without limitation the rights
+  - to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  - copies of the Software, and to permit persons to whom the Software is
+  - furnished to do so, subject to the following conditions:
+  -
+  - The above copyright notice and this permission notice shall be included in all
+  - copies or substantial portions of the Software.
+  -
+  - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  - IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  - FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  - AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  - LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  - OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  - SOFTWARE.
+  -
+  -
+  -->
+
+<svg
+   big="true"
+   version="1.1"
+   viewBox="0 0 512 512"
+   width="16px"
+   height="16px"
+   id="svg120"
+   sodipodi:docname="wolfram_script.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs124" />
+  <sodipodi:namedview
+     id="namedview122"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8.440678"
+     inkscape:cy="14.474576"
+     inkscape:window-width="1598"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg120" />
+  <rect
+     style="opacity:1;fill:#f40803;stroke:none;stroke-width:32.064;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2000"
+     width="512"
+     height="512.68835"
+     x="0"
+     y="0"
+     ry="84.796265" />
+  <path
+     fill="#f40803"
+     iconColor="Wolfram Language"
+     d="m 192.72835,261.21998 c -83.9466,-48.39569 -83.94663,-170.041881 0,-218.437581 83.9466,-48.3957155 189.44958,12.427367 189.44958,109.218791 0,96.79143 -105.50295,157.61451 -189.44955,109.21879 z m 80.99858,-138.59126 c 0.97663,-19.70679 1.30218,-28.095239 0.65107,-44.221253 l -18.40492,17.753534 c 1.30219,4.181859 3.23034,15.475109 3.23034,15.475109 0,0 9.69073,6.13482 14.52351,10.99261 z m 22.48656,135.93192 -37.01003,-60.43728 c -14.84307,-0.42895 -31.91936,-5.08339 -64.88037,-0.29814 1.02172,-10.16997 5.19807,-19.76585 11.94443,-27.44436 -5.02024,-2.13174 -10.20365,-3.85675 -15.50016,-5.15833 1.95327,-7.1114 20.65854,-15.50003 23.26268,-16.45152 -1.30205,1.60257 -6.46036,7.41201 -8.41364,11.94426 6.78605,0.95157 15.82571,6.43546 15.82571,6.43546 0,0 -9.69069,9.03948 -14.19801,20.33269 27.41523,-4.70468 28.96032,0.15129 118.44212,7.76248 11.43748,-14.45245 10.47127,-8.89663 3.55572,-21.30938 -21.61006,-10.96754 -53.88735,-37.43526 -75.19691,-58.74471 L 237.56829,60.002704 C 219.514,73.549605 216.60925,99.366251 206.59308,116.8194 c -19.25624,14.44838 -31.27576,63.77801 -40.94137,104.64392 10.7424,16.20106 60.94872,62.26284 130.56178,37.09732 z M 254.0451,146.8179 c 10.9678,-1.60266 19.03079,4.20676 26.46796,9.69059 l -12.26998,3.55577 c -6.13504,-3.55577 -11.61891,-5.48392 -16.77729,-4.85787 z m 115.5248,5.18329 c 0,-87.121819 -94.96311,-141.868603 -170.52332,-98.307681 -54.67909,31.522801 -69.74963,97.464721 -45.29177,148.070571 15.00272,-42.72059 30.81152,-75.00547 47.67984,-93.65871 9.03964,-26.793271 21.61008,-49.730198 38.08683,-63.277129 l 13.54691,41.642193 26.79351,-26.14219 c 0,-0.325584 4.20681,38.737622 2.25356,68.109926 17.10277,17.42817 67.13391,49.05421 67.13391,49.05421 0,0 -17.42817,24.53955 -20.65851,25.81664 -6.03269,2.43997 -31.21957,-1.68045 -51.30823,-3.55569 l 38.90463,48.43652 c 31.36352,-19.55712 53.38264,-54.15733 53.38264,-96.18866 z"
+     id="path118"
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.848;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:label="path118" />
+  <g
+     id="g6359"
+     transform="matrix(2.0165175,0,0,1.8314503,-228.78264,-362.72914)">
+    <text
+       xml:space="preserve"
+       style="font-size:170.667px;fill:#ffffff;stroke:#ffffff;stroke-width:3.42618;stroke-dasharray:none;stroke-opacity:1"
+       x="166.646"
+       y="439.60583"
+       id="text6218"><tspan
+         id="tspan6216"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.667px;font-family:'AnonymicePro Nerd Font Mono';-inkscape-font-specification:'AnonymicePro Nerd Font Mono';stroke-width:3.42618"
+         x="166.646"
+         y="439.60583"
+         sodipodi:role="line">&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135.881px;font-family:'AnonymicePro Nerd Font Mono';-inkscape-font-specification:'AnonymicePro Nerd Font Mono';fill:#ffffff;stroke:#ffffff;stroke-width:5.88535;stroke-dasharray:none;stroke-opacity:1"
+       x="233.20618"
+       y="445.70837"
+       id="text6272"
+       transform="scale(1.0428707,0.95889165)"><tspan
+         sodipodi:role="line"
+         id="tspan6270"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:135.881px;font-family:'AnonymicePro Nerd Font Mono';-inkscape-font-specification:'AnonymicePro Nerd Font Mono';stroke-width:5.88535"
+         x="233.20618"
+         y="445.70837">_</tspan></text>
+  </g>
+</svg>

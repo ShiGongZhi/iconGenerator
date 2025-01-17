@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  - The MIT License (MIT)
+  -
+  - Copyright (c) 2015-2022 Elior "Mallowigi" Boukhobza
+  -
+  - Permission is hereby granted, free of charge, to any person obtaining a copy
+  - of this software and associated documentation files (the "Software"), to deal
+  - in the Software without restriction, including without limitation the rights
+  - to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  - copies of the Software, and to permit persons to whom the Software is
+  - furnished to do so, subject to the following conditions:
+  -
+  - The above copyright notice and this permission notice shall be included in all
+  - copies or substantial portions of the Software.
+  -
+  - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  - IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  - FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  - AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  - LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  - OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  - SOFTWARE.
+  -
+  -
+  -->
+
+<svg
+   big="true"
+   version="1.1"
+   viewBox="0 0 512 512"
+   width="16px"
+   height="16px"
+   id="svg120"
+   sodipodi:docname="wolfram.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs124" />
+  <sodipodi:namedview
+     id="namedview122"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="20.85965"
+     inkscape:cx="2.9962152"
+     inkscape:cy="8.9167364"
+     inkscape:window-width="1370"
+     inkscape:window-height="686"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg120" />
+  <rect
+     style="opacity:1;fill:#f40803;stroke:none;stroke-width:32.064;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2000"
+     width="512"
+     height="512.68835"
+     x="0"
+     y="0"
+     ry="84.796265" />
+  <path
+     fill="#f40803"
+     iconColor="Wolfram Language"
+     d="m 138.54291,456.57702 c -154.776513,-89.23008 -154.776568,-313.51661 -4e-5,-402.746759 154.77649,-89.230145 349.29766,22.913103 349.29766,201.373389 0,178.4603 -194.52109,290.60353 -349.29762,201.37337 z M 287.88401,201.0478 c 1.8007,-36.33458 2.40093,-51.80086 1.20044,-81.53343 l -33.93407,32.73329 c 2.4009,7.71039 5.95594,28.5324 5.95594,28.5324 0,0 17.86728,11.31118 26.77769,20.26774 z m 41.45961,250.62604 -68.23724,-111.43193 c -27.36691,-0.79088 -58.85131,-9.37253 -119.62318,-0.5497 1.88381,-18.75099 9.58397,-36.44348 22.02257,-50.60083 -9.2561,-3.93042 -18.81299,-7.11091 -28.57844,-9.51076 3.60135,-13.11169 38.0892,-28.57834 42.89055,-30.33268 -2.40064,2.95479 -11.91129,13.666 -15.51265,22.02238 12.5118,1.75446 29.17865,11.86544 29.17865,11.86544 0,0 -17.86717,16.66667 -26.17756,37.48865 50.54685,-8.67431 53.39559,0.27892 218.37766,14.31213 21.08786,-26.64686 19.30639,-16.40323 6.55586,-39.28937 -39.84353,-20.22152 -99.3548,-69.02168 -138.6443,-108.31125 L 221.21656,85.580393 c -33.28762,24.977277 -38.64328,72.576997 -57.11053,104.756427 -35.5037,26.63936 -57.66469,117.59141 -75.48567,192.9384 19.8063,29.87091 112.37419,114.79783 240.72326,68.39862 z M 251.59566,245.64691 c 20.22189,-2.95493 35.08802,7.75626 48.8003,17.86709 l -22.62279,6.55601 c -11.31146,-6.55601 -21.42232,-10.11103 -30.93312,-8.95674 z m 212.99883,9.55674 C 464.59449,94.571798 289.50628,-6.3681926 150.19216,73.947731 49.377584,132.06827 21.591289,253.6494 66.685451,346.95452 94.34672,268.18798 123.49416,208.66235 154.5952,174.27025 171.26198,124.86984 194.43873,82.579608 224.81774,57.602297 l 24.97712,76.778253 49.40053,-48.199935 c 0,-0.600293 7.7563,71.422915 4.155,125.578425 31.53325,32.1334 123.77814,90.44426 123.77814,90.44426 0,0 -32.13319,45.2451 -38.08913,47.59971 -11.12276,4.49873 -57.56104,-3.09831 -94.59952,-6.5558 l 71.73041,89.30536 c 57.82647,-36.05865 98.4242,-99.85317 98.4242,-177.34892 z"
+     id="path118"
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:6.71893;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

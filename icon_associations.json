@@ -19367,6 +19367,30 @@
         },
         {
           "value": {
+            "fileNames": "*.mx,*.wxf,*.wdx",
+            "name": "Wolfram Language Binary",
+            "iconColor": "f40803",
+            "priority": "100",
+            "iconType": "FILE",
+            "pattern": ".*\\.(mx|wxf|wdx)$",
+            "url": "https://reference.wolfram.com/language/guide/WolframLanguageFileFormats",
+            "icon": "/icons/files/wolfram_bin.svg"
+          }
+        },
+        {
+          "value": {
+            "fileNames": "*.wlnet",
+            "name": "Wolfram Language Nueral Net Model",
+            "iconColor": "f40803",
+            "priority": "100",
+            "iconType": "FILE",
+            "pattern": ".*\\.wlnet$",
+            "url": "https://reference.wolfram.com/language/ref/format/WLNet",
+            "icon": "/icons/files/wolfram_net.svg"
+          }
+        },
+        {
+          "value": {
             "fileNames": "PacletInfo.wl,PacletInfo.m",
             "name": "Wolfram Language Paclet",
             "iconColor": "f40803",

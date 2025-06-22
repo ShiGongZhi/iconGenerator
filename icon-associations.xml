@@ -13082,12 +13082,12 @@
                pattern="^PacletInfo\.(wl|m)$"
                url="https://reference.wolfram.com/workbench/index.jsp?topic=/com.wolfram.eclipse.help/html/reference/projects/pacletinfo"
                icon="/icons/files/wolfram_paclet.svg"/>
-        <regex fileNames="init.m"
-               name="Wolfram Language Initialization File"
+        <regex fileNames="*.init.m,*.init.wl,init.m,init.wl,Private.wl,Private.m,Public.wl,Public.m,PackageScope.wl,PackageScope.m,PublicScope.wl,PublicScope.m"
+               name="Wolfram Language Package Files"
                iconColor="f40803"
                priority="100"
                iconType="FILE"
-               pattern="^init\.m$"
+               pattern="^((*init)|Private|Public|PackageScope|PublicScope)\.(wl|m)$"
                url="https://reference.wolfram.com/language/ref/file/init.m.html.en#:~:text=The%20Wolfram%20System%20will%20also,initialization%20in%20addition%20to%20init."
                icon="/icons/files/wolfram_init.svg"/>
         <regex fileNames=".woodpecker.yml,.woodpecker.yaml"

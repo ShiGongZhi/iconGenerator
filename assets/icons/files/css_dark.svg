@@ -1,30 +1,5 @@
-<!--
-  - The MIT License (MIT)
-  -
-  - Copyright (c) 2015-2024 Elior "Mallowigi" Boukhobza
-  -
-  - Permission is hereby granted, free of charge, to any person obtaining a copy
-  - of this software and associated documentation files (the "Software"), to deal
-  - in the Software without restriction, including without limitation the rights
-  - to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-  - copies of the Software, and to permit persons to whom the Software is
-  - furnished to do so, subject to the following conditions:
-  -
-  - The above copyright notice and this permission notice shall be included in all
-  - copies or substantial portions of the Software.
-  -
-  - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  - IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  - FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-  - AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  - LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-  - OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-  - SOFTWARE.
-  -
-  -->
-
-<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 16 16">
-  <path fill="#89DDFF" data-iconColor="CSS Dark"
-        d="M3.785,2H14l-1.805,9.164L6.738,13,2,11.164,2.482,8.717H4.5L4.3,9.728l2.864,1.107,3.3-1.107L10.925,7.4h-8.2L3.12,5.355h8.206l0.258-1.313h-8.2Z"
-  />
+<!-- Copyright 2000-2024 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.99237 15L2.94069 13.6005L1.81494 1H14.1849L13.058 13.5985L7.99237 15Z" fill="#548AF7"/>
+<path d="M4.25747 5.1211L4.1167 3.57568H11.8739L11.5943 6.70361L11.5565 7.1186L11.1693 11.4482L7.99978 12.3249L7.99266 12.327L4.82048 11.4482L4.60352 9.02173H6.15807L6.26832 10.2543L7.993 10.719L7.99463 10.7186L9.7218 10.2533L9.90155 8.249L4.53431 8.249L4.39551 6.70361H10.0358L10.1768 5.1211H4.25747Z" fill="white"/>
 </svg>
